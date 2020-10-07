@@ -11,11 +11,12 @@ img {
         #4b026f 10px, 
         #4b026f 20px
     );
+    
+    height: 80px;
+    margin: 3px;
+    width: 150px;
     border: solid 3px navy;
     border-radius: 5px;
     cursor: pointer;
     display: inline-block;
-    height: 80px;
-    margin: 3px;
-    width: 150px;
 }
